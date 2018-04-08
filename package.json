@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "sample background-generator webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plotop/BackgroundGenerator.git"
+  },
+  "author": "Sairam Ghanta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plotop/BackgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/plotop/BackgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}

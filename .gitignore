@@ -9,6 +9,9 @@
 !.vscode/extensions.json
 .history
 
+### Node.js ###
+node_modules/*
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
