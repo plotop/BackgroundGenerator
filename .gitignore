@@ -11,6 +11,7 @@
 
 ### Node.js ###
 node_modules/*
+script/bundle.js
 
 ### Windows ###
 # Windows thumbnail cache files

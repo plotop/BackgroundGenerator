@@ -4,7 +4,7 @@
   "description": "sample background-generator webapp",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "build": "browserify script/script.js > script/bundle.js"
   },
   "repository": {
     "type": "git",
